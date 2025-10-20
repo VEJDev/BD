@@ -1,1 +1,1 @@
-# Different optimization approaches for a discrete time optimal control problem.
+Different optimization approaches for a discrete time optimal control problem.
